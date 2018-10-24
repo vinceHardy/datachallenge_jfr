@@ -3,7 +3,7 @@ Repository used for collaborative work for the Data Med Team during the JFR Data
 
 The team was composed of:
 - Dali Ioudarene, CentraleSupelec
-- Solene Lefevre, Faculté de Médecine du Kremlin-Bicetre
+- Solene Lefevre, Faculte de Medecine du Kremlin-Bicetre
 - Vincent Hardy, CentraleSupelec
 
 The team decided to compete on the liver Data Challenge. Technical choices are summarized in the .pdf file.
