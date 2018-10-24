@@ -6,7 +6,7 @@ The team was composed of:
 - Solene Lefevre, Faculte de Medecine du Kremlin-Bicetre
 - Vincent Hardy, CentraleSupelec
 
-The team decided to compete on the liver Data Challenge. Technical choices are summarized in the .pdf file.
+The team decided to compete on the liver Data Challenge. Technical choices are summarized in the [.pdf file]technical_note.pdf.
 Furthermore one can discover here the Notebooks which were used during the Challenge.
 
 At the end the team got an AUC score of 0.72 on the test set. The winners managers managed to reach 0.89 on the same liver challenge.
