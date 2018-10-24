@@ -1,4 +1,4 @@
-# datachallenge_jfr
+# 2018 JFR Data Challenge: Study & Results
 Repository used for collaborative work for the Data Med Team during the JFR Data Challenge 2018 in Paris.
 
 The team was composed of:
